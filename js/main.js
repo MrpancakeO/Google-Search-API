@@ -23,4 +23,4 @@ const app = Vue.createApp({
 
 
 
-})
+});
